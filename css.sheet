@@ -1,0 +1,14 @@
+A{
+background-color:blue;
+font-family:arial;
+font-size:40px;
+}
+.b{
+font-color:green;
+font-size:30px
+background-color:purple;
+}
+p{
+font-family:aligerian;
+text-align:center;
+}
